@@ -2,6 +2,7 @@
 
 ## Answers:
 
+```
 280
 
 real	0m1.562s
@@ -222,3 +223,4 @@ sys	0m2.234s
 real	0m2.659s
 user	0m3.516s
 sys	0m0.547s
+```
